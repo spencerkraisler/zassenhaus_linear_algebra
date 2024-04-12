@@ -1,3 +1,5 @@
+"""Created by Spencer Kraisler in 2024."""
+
 import numpy as np
 import sympy as sp
 
